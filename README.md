@@ -1,15 +1,15 @@
 This readme provides additional info on how to compile the sudoku project on HPC Ghent.
 
-#Requirements
+# Requirements
 - [GCC](https://gcc.gnu.org/)
 - [GNU Make](https://www.gnu.org/software/make/)
 - [HPC Ghent account](https://www.ugent.be/hpc/en)
 
-#Installation
+# Installation
 
 To run the gurobi code on HPC, follow the following three steps.
 
-#Step 1. Access HPC
+# Step 1. Access HPC
 
 1) Open a terminal on HPC and move to the home directory (e.g., open a terminal and type $ssh vsc[your user id]@login.hpc.ugent.be)
 
