@@ -7,9 +7,7 @@ This readme provides additional info on how to compile the sudoku project on HPC
 
 # Installation
 
-To run the gurobi code on HPC, follow the following three steps.
-
-# Step 1. Access HPC
+To run the gurobi code on HPC, follow the following steps.
 
 1) Open a terminal on HPC and move to the home directory (e.g., open a terminal and type $ssh vsc[your user id]@login.hpc.ugent.be)
 
