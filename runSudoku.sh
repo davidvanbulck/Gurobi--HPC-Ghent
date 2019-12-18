@@ -14,7 +14,7 @@
 
 # Move to the working directory
 # Alternatively: $ cd  /user/gent/419/vsc41980/gurobi/sudoku_code
-cd ~/gurobi/
+cd ~/Gurobi--HPC-Ghent
 
 # Load modules
 module load Gurobi/9.0.0
@@ -24,5 +24,5 @@ make sudoku
 
 # Solve instance
 # "<" makes that de data of sudoku1.dat is correctly passed to Gurobi
-./sudoku < ~/gurobi/sudoku1.dat
+./sudoku < ~/Gurobi--HPC-Ghent/sudoku1.dat
 

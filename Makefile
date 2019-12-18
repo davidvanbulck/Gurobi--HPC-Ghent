@@ -15,7 +15,7 @@ OBJ		= $(SRC:.cpp=.o)
 CXXFLAGS	= -D_GLIBCXX_USE_CXX11_ABI=0					#Use older version of g++ (Newer versions of Linux not yet supported)
 
 # Specify below the path were your gurobi code is
-DIR		= ~/gurobi/
+DIR		= ~/Gurobi--HPC-Ghent
 	
 sudoku: $(DIR)/*.cpp
 	$(CC) $(CARGS) $(CXXFLAGS) $(DIR)/*.cpp -I$(INC) $(CPPLIB) -lm -o sudoku
