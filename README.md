@@ -1,4 +1,4 @@
-This readme provides additional info on how to compile the sudoku project on HPC Ghent.
+This readme provides additional info on how to compile the sudoku project on HPC Ghent. I intend to update this repository whenever paths on HPC change or when new versions come available.
 
 # Requirements
 - [GCC](https://gcc.gnu.org/)
