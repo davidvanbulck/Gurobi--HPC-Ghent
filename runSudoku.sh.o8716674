@@ -1,0 +1,32 @@
+make: `sudoku' is up to date.
+Gurobi Optimizer version 9.0.0 build v9.0.0rc2 (linux64)
+Optimize a model with 324 rows, 729 columns and 2916 nonzeros
+Model fingerprint: 0xc0daf0aa
+Variable types: 0 continuous, 729 integer (729 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 324 rows and 729 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 36 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+928476351
+514839627
+763512984
+281793546
+375164892
+649258173
+457381269
+836927415
+192645738
+
